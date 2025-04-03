@@ -1,0 +1,15 @@
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\bin\Debug\net9.0\C#FundementalsRefresherAndSetup.exe
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\bin\Debug\net9.0\C#FundementalsRefresherAndSetup.deps.json
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\bin\Debug\net9.0\C#FundementalsRefresherAndSetup.runtimeconfig.json
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\bin\Debug\net9.0\C#FundementalsRefresherAndSetup.dll
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\bin\Debug\net9.0\C#FundementalsRefresherAndSetup.pdb
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.AssemblyInfoInputs.cache
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.AssemblyInfo.cs
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.csproj.CoreCompileInputs.cache
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.sourcelink.json
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.dll
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\refint\C#FundementalsRefresherAndSetup.dll
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.pdb
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\C#FundementalsRefresherAndSetup.genruntimeconfig.cache
+C:\RoadMapAIApplicationDevelopment\C#FundementalsRefresherAndSetup\obj\Debug\net9.0\ref\C#FundementalsRefresherAndSetup.dll

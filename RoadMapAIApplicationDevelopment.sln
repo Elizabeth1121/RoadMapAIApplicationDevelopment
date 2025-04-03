@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#FundementalsRefresherAndSetup", "C#FundementalsRefresherAndSetup\C#FundementalsRefresherAndSetup.csproj", "{D84D4121-638D-8839-D0E3-ACB83485CAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84D4121-638D-8839-D0E3-ACB83485CAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84D4121-638D-8839-D0E3-ACB83485CAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84D4121-638D-8839-D0E3-ACB83485CAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84D4121-638D-8839-D0E3-ACB83485CAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7F1FED-BFC9-4440-B72F-E6EAD89141D8}
+	EndGlobalSection
+EndGlobal
