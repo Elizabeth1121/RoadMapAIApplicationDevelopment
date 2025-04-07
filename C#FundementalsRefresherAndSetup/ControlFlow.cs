@@ -1,6 +1,6 @@
 namespace CSharpFundamentalsRefresherAndSetup
 {
-    public class ConditionalStatements
+    public class ControlFlow
     {
         private bool PlayAgain()
         {
@@ -61,6 +61,21 @@ namespace CSharpFundamentalsRefresherAndSetup
                     Console.WriteLine("A new number has been selected, good luck!");
                 }
             }
+        }
+
+        public int Factorial(int input)
+        {
+            if(input == 0) return 1;   // if the user enters 0, theres no reason to go any further
+            if(input < 0) throw new ArgumentOutOfRangeException("Cannot be less than zero.");    // adding an error handle for inputs less than zero
+
+            int sum = input;           // variable to hold result
+
+            for(int i = input - 1; i > 0; i--)    // for loop that goes in descending order
+            {
+                sum *= i;   // mult the nums together
+            }
+
+            return sum;   // retruning sum
         }
     }
 }

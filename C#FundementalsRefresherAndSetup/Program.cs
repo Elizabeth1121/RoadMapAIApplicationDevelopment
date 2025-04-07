@@ -17,8 +17,11 @@ namespace CSharpFundamentalsRefresherAndSetup
             //practice.MovieRecomendation();
             //------------------------------------------PRACTICE FUNDAMENTALS------------------------------------------
 
-            ConditionalStatements conditional = new ConditionalStatements();
-            conditional.NumberGuessingGame();
+            ControlFlow flow = new ControlFlow();
+            //flow.NumberGuessingGame();
+
+            int result = flow.Factorial(0);
+            Console.WriteLine(result);
         }
     }
 }
