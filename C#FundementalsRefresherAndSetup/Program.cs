@@ -6,9 +6,9 @@ namespace CSharpFundamentalsRefresherAndSetup
     {
         static void Main(string[] args)
         {
-            //------------------------------------------PRACTICE FUNDAMENTALS------------------------------------------
-            //Console.WriteLine("Welcome to C# Fundamentals Refresher!");
+            Console.WriteLine("Welcome to C# Fundamentals Refresher!");
 
+            //------------------------------------------PRACTICE FUNDAMENTALS------------------------------------------
             //PracticeFundementals practice = new PracticeFundementals();
             //practice.DisplayDataTypes();
             //practice.DisplayOperators(10, 5);
@@ -17,7 +17,8 @@ namespace CSharpFundamentalsRefresherAndSetup
             //practice.MovieRecomendation();
             //------------------------------------------PRACTICE FUNDAMENTALS------------------------------------------
 
-            
+            ConditionalStatements conditional = new ConditionalStatements();
+            conditional.NumberGuessingGame();
         }
     }
 }

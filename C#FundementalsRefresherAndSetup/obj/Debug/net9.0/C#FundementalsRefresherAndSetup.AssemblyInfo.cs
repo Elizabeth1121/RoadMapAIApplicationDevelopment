@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#FundementalsRefresherAndSetup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7818c0b79d7c8efc04241d23f2b21cbb51dceb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf273bc56fea590ec4fe75b0dcc3fba66c4dec8")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#FundementalsRefresherAndSetup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#FundementalsRefresherAndSetup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
